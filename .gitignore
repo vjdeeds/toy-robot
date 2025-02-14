@@ -1,0 +1,18 @@
+# Node.js dependencies
+node_modules/
+
+.env
+
+coverage/
+
+.DS_Store
+Thumbs.db
+
+npm-debug.log*
+
+dist/
+build/
+
+.vscode/
+.idea/
+*.swp
