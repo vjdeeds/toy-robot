@@ -45,7 +45,19 @@ To test coverage:
   npm run test:coverage
 ```
 
----
+## Running eslint & prettier
+
+eslint: to enforce code quiality check (unsed vars, empty funcs, incorrect var types, etc)
+
+```bash
+  npm run lint
+```
+
+pretttier: to check code formatting (Indentation, commas, semicolons, etc)
+
+```bash
+  npm run format
+```
 
 ### Notes
 
